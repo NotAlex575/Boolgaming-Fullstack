@@ -158,7 +158,8 @@ VITE_APP_NAME="${APP_NAME}"
 ATTENZIONE! Controlla bene in xampp qual'è la tua DB_PORT
 la DB_PORT la puoi trovare su xampp come qui mostrato nell'immagine:
 
-![Porta]("per far vedere la porta.jpg")
+![alt text](public/port.jpg)
+
 
 * assicurati di aver creato su phpMyAdmin un database (dento il db laravel) chiamato laravel_boolgaming
 
